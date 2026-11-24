@@ -5,7 +5,7 @@
 
 Audits canonical URLs, bilingual link alignment, protocol consistency, and search indexing integrity.
 
-Developed and maintained by the technical search architecture division of **TAVARDT Canada**.
+Developed and maintained by the technical search architecture division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python canonical_validator.py https://company.ca -json
 For full web verification and deep URL consolidation audits:
 
 * **Official Canonical Tag Checker Tool**
-* **TAVARDT Canada Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Technical SEO and Indexation Advisory
 
-For Canadian federal and enterprise platforms aligning with W3C Standards and Canadian Digital Guidelines, contact the specialists at **TAVARDT Canada**.
+For Canadian federal and enterprise platforms aligning with W3C Standards and Canadian Digital Guidelines, contact the specialists at **TAVARDT**.
 
 ***
 
